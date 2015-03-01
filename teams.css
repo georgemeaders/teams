@@ -1,0 +1,117 @@
+body {
+  background: #B7DEFF;
+  text-align: center;
+}
+
+#topheading {
+  font-family: 'Abril Fatface', cursive;
+  color: #888888;
+}
+
+.pick5 {
+  color:red;
+}
+
+li {
+  color:blue;
+}
+
+#draft {
+  margin-left: auto;
+  margin-right:auto;
+  display:inline;
+}
+
+#reveal {
+  margin-left: auto;
+  margin-right:auto;
+  display:inline;
+}
+
+#playerteam {
+  background-color: #F1E0FF;
+  border: 2px double;
+  box-shadow: 10px 10px 5px #888888;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+
+  position:relative;
+}
+
+
+#picksid {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: auto;
+}
+
+.picks {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px double;
+  box-shadow: 10px 10px 5px #888888;
+  width:200px;
+  height: 150px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+
+  font-weight: 500;
+  line-height: 26.3999996185303px;
+  color: white ;
+
+
+}
+
+#pictures {
+
+  margin-right: auto;
+  margin-left: auto;
+
+
+
+  text-align: center;
+
+
+}
+
+div {
+  background: #ffffff;
+  border: 5px solid red;
+}
+
+
+#player1 {
+  display:inline;
+}
+
+#player2 {
+  display:inline;
+}
+
+#player3 {
+  display:inline;
+}
+
+#player4 {
+  display:inline;
+}
+
+#player5 {
+  display:inline;
+}
+
+
+button {
+  margin-right: auto;
+  margin-left:auto;
+  display:inline;
+}
