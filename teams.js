@@ -92,6 +92,27 @@ $( "#reveal" ).click(function() {
 
 })
 
+//animate
+
+
+    $("button").click(function(){
+    var div = $("div");
+    div.animate({height: '300px', opacity: '0.9'}, "slow");
+    div.animate({width: '300px', opacity: '0.8'}, "slow");
+    div.animate({height: '125px', opacity: '0.9'}, "slow");
+    div.animate({width: '170px', opacity: '0.9'}, "slow");
+});
+
+     $("#draft").click(function(){
+        $("#drafted").slideDown();
+      })
+
+
+     $("#reveal").click(function(){
+        $("#drafted").slideUp();
+      })
+
+
 
 
 

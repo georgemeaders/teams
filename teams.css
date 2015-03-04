@@ -115,3 +115,10 @@ button {
   margin-left:auto;
   display:inline;
 }
+
+#drafted {
+  display: none;
+  color: red;
+  background-color: white;
+  font-weight: bolder;
+}
